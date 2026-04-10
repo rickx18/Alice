@@ -64,7 +64,7 @@ main {
 }
 
 section.song {
-    background-color: #fff;
+    background-color: rgb(255, 255, 255, 0.8);
     margin-bottom: 1.5em;
     padding: 1.5em;
     border-radius: 8px;
@@ -79,7 +79,7 @@ section.song h2 {
 
 section.song p {
     font-size: 1.2em;
-    color: #555;
+    color: #4d0505;
 }
 
 footer {
