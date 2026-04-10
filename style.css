@@ -39,7 +39,7 @@ body {
 }
 
 header {
-    background-color: rgba(233, 37, 79, 0.5);
+    background-color: rgba(245, 104, 23, 0.5);
     color: #fff;
     padding: 2em 0;
     text-align: center;
@@ -74,7 +74,7 @@ section.song {
 section.song h2 {
     margin: 0 0 0.5em;
     font-size: 1.5em;
-    color: #e91e63;
+    color: #e91e84;
 }
 
 section.song p {
